@@ -14,12 +14,6 @@ Desenvolvo aplicações utilizando C#
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysson-nn&layout=compact&theme=tokyonight" height="150" />
-</p>
-
 ### 📬 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allysson-antonucci-332024193/)
